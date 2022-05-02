@@ -1,1 +1,1 @@
-# docker_study
+# for docker & Kubernetes
